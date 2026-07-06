@@ -45,3 +45,4 @@ myFunction(); // hello world
 console.log(typeof heros); // object
 console.log(typeof myFunction); // function object
 console.log(typeof id); // symbol
+console.log(typeof bigNumber); //bigInt
