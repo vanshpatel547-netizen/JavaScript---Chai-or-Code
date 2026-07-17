@@ -54,4 +54,4 @@ console.log(Object.keys(tinderuser)); // make key array for perticular object
 console.log(Object.values(tinderuser)); // make key values into array for perticular object  
 console.log(Object.entries(tinderuser)); // inside one perent Array , it puts key and values pairs of object into Array for a perticular object 
 
-console.log(tinderuser.hasOwnProperty('islogged')); // to debug that object has perticular key or not 
+console.log(tinderuser.hasOwnProperty('islogged')); // to debug that object has perticular key or not.
