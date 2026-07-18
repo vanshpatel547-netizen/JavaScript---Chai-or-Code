@@ -17,8 +17,6 @@ for (let i = 0; i < array.length; i++) {      // so its very important that this
   const element = array[i];
 }
 
-
-
-console.log(a); // we can use easily withb this logs 
+console.log(a); // we can use easily with this logs 
 // console.log(b);
 // console.log(c);
